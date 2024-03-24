@@ -22,14 +22,14 @@ Python • Java • Excel • SQL • Power BI • Tableau • SAS • Linux
 
 ## About Me 
 
-**Texas A&M University-San Antonio** 
+##**Texas A&M University-San Antonio** 
 Bachelor of Applied Art & Science, Information Technology 
 
 **Certificates:** 
 * Data Analytics
 * Cyber Security
 
-**San Antonio College**
+##**San Antonio College**
 Associate of Science, Computer Programming
 
 
