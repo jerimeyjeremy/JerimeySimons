@@ -3,7 +3,7 @@
 
 # I am a creative problem-solver and avid learner with a background in Machine Learning. I am eager to leverage my educational foundation and technical expertise in data analytics, data science, and Artificial Intelligence to solve meaningful problems. #
 
-*My Motto: Constant elevation causes expansion - Rakim*
+*Constant elevation causes expansion - Rakim*
 
 
 ---
