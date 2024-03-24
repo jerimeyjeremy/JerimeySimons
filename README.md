@@ -13,7 +13,7 @@ This Github is home to my data science portfolio, showcasing projects born out f
 👨🏾‍🏭 **Currently working on:** Machine leanding and NN Classification Models to accuratly predict winner of NBA games.
 
 ## Let's Connect ✅
- Follow me on [GitHub](https://github.com/jerimeyjeremy), and [LinkedIn](https://www.linkedin.com/in/jerimey-simons/) for a  data science content.
+ Follow me on [GitHub](https://github.com/jerimeyjeremy), and [LinkedIn](https://www.linkedin.com/in/jerimey-simons/) for data science content.
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerimey-simons/) 
 
