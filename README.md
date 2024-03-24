@@ -20,7 +20,7 @@ This Github is home to my data science portfolio, showcasing projects born out f
 ## Technical Skills
 Python • Java • Excel • SQL • Power BI • Tableau • SAS • Linux
 
-## About Me 
+## Education  
 
 **Texas A&M University-San Antonio** 
 Bachelor of Applied Art & Science, Information Technology 
