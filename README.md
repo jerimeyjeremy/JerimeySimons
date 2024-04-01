@@ -1,7 +1,7 @@
 ### "Hello World", I'm Jerimey! 😁
 
 
-# I am a creative problem-solver and avid learner with a background in Machine Learning. I am eager to leverage my educational foundation and technical expertise in data analytics, data science, and Artificial Intelligence to solve meaningful problems. #
+# I am a proactive problem-solver and enthusiastic learner, driven by the challenge of applying data-driven technologies to solve real-world problems. With a solid foundation in data analytics, data science, and Artificial Intelligence, particularly in machine learning and neural networks/deep learning, I am keen to utilize my expertise to tackle significant challenges and create impactful solutions. #
 
 *Constant elevation causes expansion - Rakim*
 
